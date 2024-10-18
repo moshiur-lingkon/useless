@@ -1,4 +1,4 @@
-
+This is a "video" file that can be "played" on notepad..
 1) Open this file in notepad, Windows 11
 2) Make sure the font size is small enough to fit at least 44 lines and 
    90 characters per line
