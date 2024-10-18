@@ -1,2 +1,1 @@
-# useless
-# useless
+# A place for useless things
