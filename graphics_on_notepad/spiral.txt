@@ -1,12 +1,13 @@
 
 1) Open this file in notepad, Windows 11
 2) Make sure the font size is small enough to fit at least 44 lines and 
-   85 characters in the screen
+   90 characters in the screen
 
 4) **MOST IMPORTANT STEP**:
    a)  in line 44 bellow, there is a line marker (---------)
    c) Resize the notepad window such that the line marker is exactly at the bottom of
-      the screen. i.e. If you made the window any smaller, the line marker would disappear.
+      the screen. i.e. If you made the window any smaller,
+      the line marker would disappear.
       Be as exact as you can. Make sure the cursor is on line 1 during the resizing.
 5) Now, press and hold the page-down button.
 
